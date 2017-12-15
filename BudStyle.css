@@ -1,0 +1,33 @@
+h1, h3
+{
+color: rgb(149, 207, 14);
+margin-left: 40px;
+}
+
+h2{
+
+}
+
+p{
+
+}
+#name{
+    color: rgb(91, 12, 238);
+    margin-left: 40px;
+    
+
+    
+
+}
+.social{
+    color: rgb(221, 31, 212);
+    margin-left: 50%;
+    margin-right: 25%;
+    padding: 100px;
+    border: 3px solid red;
+}
+div{
+    border: 5px solid navy;
+    text-align: center;
+    margin: 0  25%;
+}
